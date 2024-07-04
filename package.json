@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_deployment",
+  "version": "1.0.0",
+  "description": "nodejs deployment on vercel ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Muhammad",
+    "Hamza",
+    "Liaqat"
+  ],
+  "author": "Muhammad Hamza Liaqat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "vercel": "^34.3.0"
+  }
+}
